@@ -1,7 +1,7 @@
 # on admet une fonction random qui retourne un chiffre aléatoire entre 0 et 2
 # DEBUT
 # On exécute une fonction pierreFeuilleCiseaux    
-    # on execute la fonction input et on stocke ce résultat dans la variable choix
+    # on execute la fonction input on demande au joueur si il veut jouer pierre, feuille ou ciseaux et on stocke ce résultat dans la variable choix
     # si choix est égale à pierre
         # alors si random est égale à 0
             # afficher : l'ordinateur à aussi fait pierre, vous êtes à égalité
